@@ -97,11 +97,7 @@ console.log(cat.eat());
 
 console.log('++++++');
 
-
-
 console.log('cat',isFish(cat));
-
-
 
 
 //类型别名
