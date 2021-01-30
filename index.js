@@ -57,6 +57,7 @@ console.log('------');
 //调用的是函数
 console.log(cat.eat);
 console.log(cat.eat());
+console.log('******');
 console.log('++++++');
 console.log('cat', isFish(cat));
 let xStr1 = '123';

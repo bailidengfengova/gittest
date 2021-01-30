@@ -94,6 +94,7 @@ console.log(cat.eat);
 
 console.log(cat.eat());
 
+console.log('******');
 
 console.log('++++++');
 
